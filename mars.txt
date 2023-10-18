@@ -6,3 +6,4 @@ another new line
 
 Venus should be a base, example text
 adding a commit to have difference to other main branch then will merge
+2nd change on branch
